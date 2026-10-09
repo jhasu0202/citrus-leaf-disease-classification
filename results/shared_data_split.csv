@@ -1,0 +1,1717 @@
+path,label,split
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (378).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_53_142.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_64_Image (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (138).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (13).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (110).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (197).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_47_142.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (283).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (14).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (113).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (196).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_108_SAM_4840Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (188).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_116_Image (27).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_158_31.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (385).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_20_Melanose_112.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (164).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/6bfd676d-4537-427c-b9df-f1ff7f1fa45d.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_87_Melanose_49.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (33).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_126.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (102).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/89.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (50).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_25_Image (30).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (84).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_36_Melanose_42.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (387).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_71_SAM_3927Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (85).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_14_Canker (111).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (274).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_161_Melanose_14.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (342).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/aadc6db7-7f7c-45b5-b90c-21c9435b5d03.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/ddbee6df-9a66-4819-83f9-49a9b00f5320.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_90.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/3be35125-6efb-43c9-977a-7b8ee71075a2.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (109).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (8).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (46).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (213).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (204).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (232).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (150).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_90_Melanose_35.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_113_Melanose_86.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (20).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (15).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (31).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_75_Image (57).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (81).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (13).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (301).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (165).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (46).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (351).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_14_Black spot (1).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (173).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (18).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_27_Image (49).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (46).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (89).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (408).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_123_38.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_2.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (169).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (122).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (4).jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_84_Image (13).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (62).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_17_Image (66).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_55_Melanose_30.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (40).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (28).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_37_Image (25).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (388).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_124_142.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (146).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_121_Melanose_34.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_36_Image (6).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (115).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (27).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (12).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (121).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (1).jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (3).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_135_Melanose_62.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (145).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (328).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (62).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (75).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/4b785490-638d-4a0d-8117-b2c2ab397fce.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_69_Melanose_65.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (126).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (26).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (295).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_120.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (102).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (195).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (64).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/0cb43adf-d3e5-4aef-9159-a36e7cb4f057.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (1).jpeg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/40.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_51_7.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_184_Melanose_123.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (389).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (25).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/81ac0db1-f054-4c82-8b70-87237a9e4461.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (335).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (90).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (152).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (154).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_188_Melanose_93.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (153).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (280).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_12_Image (50).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (126).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (31).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (17).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_121.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (192).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (418).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_23_Black spot (3).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (166).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (189).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_47_Image (38).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (258).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (133).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_11_Image (101).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (104).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (147).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (166).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (120).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (71).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_9_b (282).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_28_38.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_16_Melanose_96.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (12).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (28).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (147).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_24_Image (104).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_107.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (68).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (52).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_146_Melanose_11.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (100).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (154).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_182_Melanose_119.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (325).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_171_53.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_80_Melanose_111.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (54).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_41_Healthy (15).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_100_Healthy (18).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (384).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (88).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_119_Melanose_4.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (4).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/7b0324cf-8cad-4238-8b92-2cbdbc351a8e.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (63).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (132).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_78_40.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (58).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (156).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (49).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (55).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_202_35.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (40).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (287).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (82).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (152).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (22).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/cb98148c-a191-4dab-9d68-84205e84bb0f.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (347).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (52).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (94).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (69).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_165_38.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (1).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/9e66011d-81d7-404d-8d00-8e90d4d9346c.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (157).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/97.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (9).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_18_Melanose_15.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_147_Melanose_91.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (403).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (63).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (136).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (59).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (39).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (1).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (379).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_130_SAM_3937Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/586e0a6f-b830-4a91-9a77-60bac9d94fe7.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_50.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (265).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (26).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (48).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_181_Melanose_105.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (181).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_60.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (65).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_155_Melanose_12.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_11_Image (31).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_46.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/b1a24852-7630-459b-8993-9bb0c1dcea6e.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_102_Melanose_100.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (380).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_68_Melanose_14.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (138).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (299).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (255).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_106_Melanose_113.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_72.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/056fe7c9-863f-4c57-b227-e879d4ec0b1f.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (58).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_31_Image (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_178_Melanose_70.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_58_Melanose_21.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (53).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (185).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (48).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_167_Melanose_117.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (66).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (43).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_93.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_83_Melanose_15.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/d4d25875-9e38-42c3-833d-4561b663a599.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (49).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (179).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_201_3.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (66).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (360).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_200_Image (2).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_106.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_104.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (20).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (163).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_40_b (282).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (27).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (363).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (153).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (106).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (111).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_62.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (10).jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_133_2.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_2_Image (11).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_100_Image (5).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (59).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_195_47.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_171_Melanose_29.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (67).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (180).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_29.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_105_Image (26).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (7).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (218).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (154).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (183).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (54).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_33_10.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_55_Image (40).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (251).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (30).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_128_34.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_19_b (262).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_45_55.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (124).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (178).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (226).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (207).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (23).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (144).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_6_33.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (106).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_123_Image (6).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (356).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (54).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (35).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_104_Image (9).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (188).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (76).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (79).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (64).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (395).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_24.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (219).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_139_SAM_3937Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (367).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (205).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_115.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (8).jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_0_Canker (62).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (202).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/4458beda-0d9d-4178-a4e2-00b04e09cb74.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (254).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (2).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_143_30.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (20).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (140).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (6).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (81).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (14).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (69).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_95.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (203).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (294).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (159).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (99).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (55).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (137).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_57_4.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (77).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_21.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (109).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (361).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (229).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_62_Melanose_15.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_141_Image (27).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/aug_1_g (13).jpeg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_110_18.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (11).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (262).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (306).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_101_Melanose_88.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_142_Image (28).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_175_Melanose_3.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (137).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (37).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (157).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_167_50.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (70).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (417).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_78.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (3).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (72).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_97_Melanose_9.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (119).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (69).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (131).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_140_Melanose_69.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (99).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (88).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_30_Melanose_92.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (169).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (6).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_121_Image (26).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_91_30.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (52).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (91).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (370).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (98).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_180_Melanose_50.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/ea8c9393-59b7-4616-bb96-1ff3a12abe05.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (406).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_19.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_58.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (68).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_16_b (69).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_86.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/af7b7f2a-eb6d-4fec-809f-df629ed1860f.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (362).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (91).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (73).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_13.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_12_Image (150).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (375).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (214).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (80).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_157_Melanose_10.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_173_Image (9).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (103).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_45_Image (139).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/e302690e-c590-48b2-9656-515c6ddab2d2.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (93).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_193_1.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (83).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (114).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_29_Image (7).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_8_Melanose_14.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_96_Image (53).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (73).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (142).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_27.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (55).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_187_Melanose_12.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (143).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_66_Melanose_120.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_164_Melanose_3.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (217).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/95.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_3_b (236).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (192).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (78).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_16_107.p.jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_189_Image (16).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_73.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (9).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (223).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_12_Melanose_100.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (334).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (189).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (302).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_18_5.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (136).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (14).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_85_16.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/42.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (44).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_21_b (48).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (346).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (222).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_97_Image (19).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/5472ff12-b9c1-4a3f-954f-8b625cfafa07.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (51).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (108).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (5).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (269).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_33_Melanose_33.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (103).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (19).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (42).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (193).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (110).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/9eecb436-bd58-4476-9d41-43e8d4230a86.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_177_Healthy (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (12).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (78).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (185).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_1_Image (7).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (134).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_37.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (14).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (206).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (21).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_118.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_46_Image (28).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (59).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (117).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/5ee659a4-e779-4304-b5be-849eff3016dd.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_46_Image (20).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (39).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (15).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_67_Melanose_71.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (307).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (327).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_117.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (148).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_6_Image (101).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (284).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (227).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (271).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (110).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (8).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (4).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_95_Melanose_78.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (146).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_97.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (18).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_61_1.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_91.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (416).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (93).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/78c63e98-222e-4355-9c55-bb863788d860.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (150).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (21).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_114_Image (20).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_10_5.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (313).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (153).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_125_Image (9).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (181).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_108.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (11).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (426).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (120).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (58).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (202).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (15).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (28).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (4).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_164_Image (6).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_65_Melanose_107.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_24_Healthy (11).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/1ac131ad-f757-4906-b81d-6c2e85b43f8d.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (111).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_38.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (86).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (158).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (36).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (80).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (132).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (60).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_44_Image (27).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/eb51a607-0e9b-4758-af16-3d76f0de6885.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (124).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (124).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (210).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (341).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (110).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (149).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (57).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_68_45.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (34).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (16).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_161_49.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (6).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (104).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (2).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (116).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_20_Black spot (4).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_4_Melanose_91.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (77).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (220).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (399).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (127).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_147_11.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_176_Image (33).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_170_Melanose_81.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_133_Melanose_12.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (421).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (162).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_39.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_26.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_50_Melanose_78.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (73).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (48).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (182).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (162).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (8).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (148).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (46).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_14_Image (41).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/49.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_184_28.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_11_Melanose_92.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (105).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_103_5.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (345).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_16_Image (29).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (322).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (17).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (377).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (118).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_15_Melanose_121.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (139).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_57.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/2c8eed73-41b2-4a7d-be79-a89d84b2d128.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (317).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_0_Image (50).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (352).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (194).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (64).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (397).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (318).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (8).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (43).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (20).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (132).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_48_Melanose_102.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (70).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (54).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (56).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (96).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (75).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_42_Image (128).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (91).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (171).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (21).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_52_Image (17).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (131).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (17).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (18).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (348).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_176_Melanose_55.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (56).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (43).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (155).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (237).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_150_Melanose_30.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (181).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (27).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_103_Melanose_51.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_136_Image (36).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_192_Melanose_24.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/78.jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (86).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (57).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_48_Healthy (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (74).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_7.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/0db534f0-ab0d-46f6-8b7c-d91918d493c5.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_122_Healthy (11).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (125).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/74b19f9c-e58f-40af-a651-96e3c5928422.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (372).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (193).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (424).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (58).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (332).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (116).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (55).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (167).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (64).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (115).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (374).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (72).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_109.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_11.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_148_Image (55).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (291).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (115).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_174_Melanose_116.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_24_Image (12).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_42_Melanose_109.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_51.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_134_Image (29).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (1).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (151).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_31_Melanose_84.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (76).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (67).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (143).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (115).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (282).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (86).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_1_33.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_103.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (86).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (7).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (108).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (296).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (298).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (16).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_194_53.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/91.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (246).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (199).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (73).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_160_53.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/130.p.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (5).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_49_Image (26).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_112_6.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_51_Melanose_123.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_30_Image (8).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (182).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_172_Image (40).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_19_2.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (391).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_111.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_157_Image (27).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (122).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (31).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (101).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (276).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (118).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (168).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/1a7848ec-820b-4d24-a70d-bb66de15d135.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (165).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/44a8c02a-36cb-4726-8289-c658a655a698.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (297).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_10_Melanose_121.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (87).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (47).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/c98ce35b-2dd4-45bd-8490-bc98d5d0f7fa.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_87_50.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_4_Image (5).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_88_Image (19).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (231).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_144_Melanose_48.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (382).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (135).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (310).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_74_Melanose_4.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (91).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_116.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (111).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (45).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (13).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_39_Melanose_2.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (413).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_64_Melanose_24.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_162_Melanose_59.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (85).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (113).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (393).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/aug_3_g (137).jpeg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_192_Healthy (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (150).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_109_Melanose_19.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (8).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (119).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (7).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_118_Melanose_105.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (407).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_172_Melanose_8.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (149).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_8_Canker (117).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_28_b (131).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (94).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (141).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_90_55.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (83).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_1_Image (39).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (6).jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_77_31.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_81.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_63.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (204).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (257).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (358).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (9).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_37_Image (58).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_174_Image (53).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (273).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (44).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_137_Healthy (6).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_84.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (116).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (293).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (126).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_44_Melanose_51.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (209).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (161).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (245).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (36).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (309).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (96).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (359).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (15).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_154_28.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_166_45.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_146_Image (20).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (10).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (23).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_175_Image (16).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (333).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (244).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/92.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (104).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (129).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (236).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (127).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (289).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (411).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (324).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/31872d71-f63e-4810-ba0e-b0df1b9dcbb2.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (121).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (109).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_12.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (80).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_166_Melanose_65.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (256).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_129_40.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_125.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (43).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_180_Image (43).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (138).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (175).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_93_Melanose_105.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_82_9.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_151_Melanose_83.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (24).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_21_42.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (108).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (71).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (119).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (86).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (103).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_69_29.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (373).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (264).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (272).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (240).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (278).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_27_Image (93).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (141).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_29_Melanose_30.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_25_Melanose_29.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (82).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_105_Melanose_19.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (72).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (72).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (21).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (22).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_59_17.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (195).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (315).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_136_Melanose_7.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (117).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (9).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_4.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (326).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (41).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_185_SAM_3941Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (152).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (74).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (90).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_196_46.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (203).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (71).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (132).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (106).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_35.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (21).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_89.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (422).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_83_35.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_41_Melanose_114.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (22).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/2b9ade5f-2288-4a02-827c-9a824b70979e.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (201).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_3_82.pn.jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_65.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (139).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (409).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_30.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_149_46.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (88).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_20.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (8).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (267).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (9).jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_9.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (114).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_76_Image (4).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_78_Melanose_23.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_112.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (79).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (27).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_203_31.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_183_51.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_102_Healthy (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (65).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_15.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (319).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (396).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/9adcc2a4-c8b0-4be0-b56c-f71b9c489b9d.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (142).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_186_Image (3).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (402).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_89_Image (27).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_36_Image (139).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (10).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_165_Image (5).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (35).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (125).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (45).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_45_Melanose_88.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (265).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_14.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (264).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (73).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_84_Melanose_114.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_22_11.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (63).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_65_Image (41).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (139).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/83.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (118).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (10).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (105).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (286).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (65).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_85_Melanose_84.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (420).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_111_Image (10).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_76.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_13_Image (38).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (117).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (49).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (404).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (134).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/aug_2_g (9).jpeg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (259).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (128).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_26_34.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (9).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_8_Image (104).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (234).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (311).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (19).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_110_Melanose_112.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (113).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (3).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (98).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_185_47.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (249).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_189_Melanose_7.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (18).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (62).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (30).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (266).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_113.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (190).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/4c424f43-cc52-47e2-8802-b9c860bca0d0.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (14).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_168_39.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (197).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_17_Image (6).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (16).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (401).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/ea0d3f30-bb3a-432e-9e7b-827b272545b5.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (38).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (17).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (170).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (338).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (151).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (159).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (368).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (52).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (198).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (162).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (415).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (233).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_80_Healthy (9).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_8.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_72_Melanose_107.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (71).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (108).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (330).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_40.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_38_Melanose_52.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_177_Melanose_101.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_21_34.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (2).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (366).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (112).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (45).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_73_Melanose_33.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_179_Image (29).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (2).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (87).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/156.p.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (343).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (173).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/c9a47220-a82f-4aaa-9d0c-33f312ca8f0b.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (68).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (278).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (60).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_3_Image (10).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (50).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_6_SAM_3929Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_122.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (270).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (70).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (412).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_98_SAM_3927Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_3_Image (17).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_86_53.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (140).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_5_9.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (29).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (83).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_41_b (45).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (142).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_17_Melanose_13.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_17_Image (97).jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_59.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/138.p.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (72).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (381).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (30).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/8205a06e-7fc5-4630-a9a0-d9949ce6f204.jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_32_Melanose_14.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (33).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (12).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (29).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_118_46.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_130_Image (38).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b539ed65-7e13-490b-8154-b6423768dfb7.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/d5ca7b79-364c-42a8-99b2-66d9c2ca6b4c.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (238).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_91_Melanose_24.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (48).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (38).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (11).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (121).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/50.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (238).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (261).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (110).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (156).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (177).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (141).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_16.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_5.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/32.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (35).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_190_18.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (50).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_145_Melanose_113.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (41).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (100).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_77_SAM_3927Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (131).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (60).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_52.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (97).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_135_Healthy (17).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_23_Melanose_125.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (29).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_114_Melanose_117.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (235).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (95).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (76).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (68).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (113).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_178_Healthy (17).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_129_Melanose_11.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (32).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_1_Melanose_59.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (154).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (312).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (23).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_9_22.pn.jpeg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_92_Melanose_62.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (25).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (42).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (151).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (139).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_199_29.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_152_Image (9).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_88_Image (1).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_56.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (67).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/eb211754-8662-4180-b506-913d594c702f.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/158.p.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_25_b (229).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_35_Image (38).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (292).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (51).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (57).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (93).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (42).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (49).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_88.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (349).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_48.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (16).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (15).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_191_Melanose_65.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/90.pn.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_107_Healthy (22).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/8dce226b-0489-4e93-9147-a4a3ecd4fe64.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (147).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (120).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_34_b (197).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (36).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (243).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_119_Image (39).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (5).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (155).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (339).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_99_Melanose_118.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (130).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (54).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_173_Melanose_84.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_13_Image (6).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (167).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (94).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/1d356905-ba9a-47d7-a14c-fba7cdd1b782.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_49_Melanose_118.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (169).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (47).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_15_Image (53).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (105).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (248).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (152).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_159_33.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (112).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (290).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_48_b (237).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (75).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (157).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (101).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_138_Image (9).jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (59).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_81_Image (43).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/ebbfb1a1-d2b5-46e2-b9ec-4fcb78fa1e31.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_62_1.png.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_125_Image (48).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (53).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_182_Healthy (15).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_50_49.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (107).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_0_Melanose_48.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (39).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (123).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (221).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (224).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (55).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/e22bc8b3-3c88-4a2e-81f5-f07cd192ead4.png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (279).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (95).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_144_Image (33).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (427).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (128).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (121).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (82).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (140).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_99_50.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_187_32.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_94_Melanose_96.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_111_55.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (59).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (40).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (200).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (337).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (116).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/5fb26d0a-4905-406e-9af5-eabec3db934e.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (70).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (119).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_153_Image (2).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (1).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_153_Melanose_86.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (225).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (102).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_6.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_14_Melanose_70.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (215).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (5).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_32_b (75).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_150_Image (52).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (11).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (53).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (113).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (106).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (47).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (186).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (62).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_64.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (5).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/74.jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (134).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (61).JPG,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (27).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_68.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (239).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (120).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (124).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_41.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (216).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (4).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (102).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/9d4dd139-c1a9-4e5b-8cec-02afc3f49dfa.png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/9b6b4505-fa36-4383-9cd2-e13bd9414990.png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (172).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (99).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_137_SAM_3928Catla.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (137).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (133).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (39).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (31).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (111).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_82_Melanose_66.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (136).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (16).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_113_30.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_46_Melanose_8.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (112).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (1).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (28).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (191).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (1).png,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (114).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (93).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_102.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_9_Image (15).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_152_Melanose_8.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (142).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (129).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (38).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_17.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (23).png,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (400).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (4).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (164).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_92_Healthy (3).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_26_b (231).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (203).png,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (170).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (166).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (62).jpg,1,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (7).jpg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (37).jpg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_67.jpg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (2).jpg,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_71_Image (19).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (127).png,2,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_0_Image (52).jpeg,0,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_93_35.pn.jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_160_Melanose_118.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_38_Image (54).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_188_Image (20).jpeg,3,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_59_Melanose_44.jpeg,4,train
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_49.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (112).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_4_Healthy (18).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (145).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_75_146.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (93).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (162).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_43.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (187).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (89).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_31.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (32).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (145).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (148).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (3).jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (190).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (30).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (198).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (179).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (83).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_4_Image (114).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (92).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (1).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_25.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/7c263f31-7d0d-4208-8c73-f256477753b1.png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (35).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (7).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_122_Melanose_52.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (4).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (398).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_66_10.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (114).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/1.png.png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_10.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (304).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/d5cce596-c99c-4beb-9ccf-71ff2b28b2de.png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_95_33.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_191_Image (36).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (13).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_127_Melanose_26.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (57).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (285).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (68).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_168_Melanose_26.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (85).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (164).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_22_Melanose_107.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/830f52e1-6b6e-4a04-8eff-623b5edce8e4.png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (3).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (49).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/68d3f217-d059-4c6a-95ad-4b2c78b020d4.png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (53).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/eceed581-bd60-4c53-9c06-6ed35da80b80.png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_126_Image (16).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (174).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (29).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_181_Image (52).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_2_b (131).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (107).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (394).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (45).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (15).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (26).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/fcce565e-bb90-4434-8ffb-8b98fd3a4f29.png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (42).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_169_Melanose_14.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (10).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_33_b (231).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (79).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (12).jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (201).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (92).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (38).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (82).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (45).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_193_Melanose_14.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (24).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (177).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (251).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (95).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_179_Melanose_100.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (90).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_53_Image (20).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_2_Image (133).jpeg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_10_Image (82).jpeg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/3badfd5f-8843-4676-a192-906cab2beda0.png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (123).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (5).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (242).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (79).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (331).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (212).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_107_Melanose_15.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_18_b (256).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_197_4.png.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (26).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (405).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/aug_0_Image (133).jpeg,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_32_7.png.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_117_Melanose_112.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (144).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_116_Melanose_92.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_131_Image (11).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_109_39.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (102).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (101).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (15).jpg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (135).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (260).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (16).jpg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/99b21ad6-0821-4abb-a82a-37b09b6169c0.png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_5_Image (12).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (107).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_126_Melanose_65.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_79_Melanose_7.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (144).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (35).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_6_Black spot (9).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_139_Image (32).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_154_Melanose_10.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_89_Melanose_66.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_55.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_120_9.png.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (94).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_124_Image (29).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (143).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (13).jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (129).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_7_17.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (123).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (250).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_79_32.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (4).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (11).jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (140).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (383).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (43).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_34_Melanose_30.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (7).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (118).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_183_Melanose_14.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (41).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_76_Image (28).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_54_10.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (7).jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (425).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (22).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (57).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (16).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (247).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (24).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_70_Melanose_125.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (20).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/ef7d06d6-c4d2-43da-a7b5-81bdbd2ac0e4.png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/1a5ef7b9-4a58-428d-8033-1c18dcfdea9b.png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (271).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_77.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (125).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_170_Image (38).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (81).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (52).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_30_Image (59).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_39_Image (110).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_43_Image (15).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (48).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (6).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_163_Melanose_78.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (118).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (414).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/a7514e07-8124-4104-831f-f8c174462876.png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (6).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (386).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_138_Image (8).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_70.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (376).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (354).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (336).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (41).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_155_45.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (106).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (25).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_94_Image (13).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (78).jpg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (87).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (97).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_2_Melanose_48.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (159).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (69).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_40_Image (35).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (60).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (54).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_56_Melanose_14.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (81).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_156_Healthy (4).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_11_Image (42).jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (18).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (97).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (61).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (26).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_47_Image (92).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (184).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (158).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (101).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (32).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_132_55.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (275).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (168).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_18.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (105).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (10).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (321).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (84).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (208).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (36).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_5_Image (143).jpeg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_190_Melanose_10.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (129).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (120).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_60_Melanose_26.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_132_32.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_57_Melanose_6.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (34).png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/6207cb25-f9a3-4060-9860-af6136d76619.png,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (277).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (6).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_43_b (14).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (126).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_71.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (21).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (323).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_61_Melanose_29.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/484e868c-507c-4ebc-9fba-406c17f31006.png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_92.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_151_11.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (145).png,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (178).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (150).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_143_Melanose_27.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (17).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_74_10.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_145_35.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (99).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (14).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_7_Melanose_120.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_10_b (164).jpeg,0,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_19_Image (12).jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (44).png,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (228).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (78).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (156).png,2,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_131_Melanose_23.jpeg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (44).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_42.jpg,4,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_7_Image (78).jpeg,1,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_117_40.pn.jpeg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (171).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (160).jpg,3,validation
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_85.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (123).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (357).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (314).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (57).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_86_Melanose_57.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (369).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_134_Melanose_113.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (94).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_34.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (61).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (167).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_186_Melanose_34.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_101_43.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (21).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (371).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/8dfa560d-9d40-489b-a659-edd4a7f990e4.png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (98).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (47).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_156_Melanose_9.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_63_38.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (51).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (8).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (308).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_115_Melanose_26.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_36.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (100).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (160).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (36).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (133).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (353).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (33).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/3.png.png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_9_Melanose_83.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (174).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (66).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (392).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (252).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (18).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (114).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (109).jpg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_169_3.png.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (196).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (34).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (24).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (4).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (63).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (51).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (135).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (90).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (15).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (38).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (135).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_42_Image (24).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_26_Image (41).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_98_39.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/e164e7b8-9199-4dd4-8ff6-5ec7770af5f2.png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (56).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_115_33.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (125).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (253).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_7_b (258).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_72_5.png.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_104_Healthy (18).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (50).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_114.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_163_Image (17).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_54_SAM_3941Catla.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_39_Image (27).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (161).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (12).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (410).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (131).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (300).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (143).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_13_Image (5).jpeg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (165).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_123.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (84).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_96_Melanose_62.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Black spot (12).jpg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_43_Melanose_50.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (50).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_27_Melanose_91.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (288).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (329).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_31_b (262).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_60_46.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_105.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (18).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (34).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (124).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (365).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_52_Melanose_15.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_58_45.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (11).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (104).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/0693804b-a008-4357-860f-dbb29d09bba1.png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (67).jpg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (9).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_142_SAM_3929Catla.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (3).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (66).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (355).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (82).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (98).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (20).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_96.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_83.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (184).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_67_55.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (130).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (25).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (128).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (123).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_69.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_33.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_119.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/aug_15_Image (107).jpeg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_28_146.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (14).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/5e72eac0-1509-4042-a7fa-93eef527fe03.png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (303).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (107).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (101).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/cf5e1134-2dc9-4c96-8e50-135372bedb56.png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (176).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_56_Image (13).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_35_Melanose_96.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (142).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_23_47.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (241).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/b (53).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_22_Black spot (10).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (199).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (30).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_141_Melanose_105.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_70_50.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (149).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (74).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (3).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/1bbc36bd-8e2a-467f-a43b-6f768a9fc230.png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (122).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Healthy (12).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_128_Image (5).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (17).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_8_Image (54).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_28.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (194).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (61).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (230).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_120_Melanose_81.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (31).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (85).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (2).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (127).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (116).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (56).jpg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_20_Image (42).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_5_Melanose_14.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_38_b (258).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (184).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (159).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/3dc16706-92b6-4549-8e62-bab712479a53.png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (76).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (305).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (112).jpg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/03cb170b-58fe-4f3e-9629-c96eee35ca26.png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_35_Image (62).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_44.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (148).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/bfc53bd7-3cf5-4c27-80fb-40deee383ef7.png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_127_Image (52).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_13_b (92).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (350).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (19).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (25).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_15_b (257).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (80).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (344).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_101.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (95).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (146).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (423).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (268).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (6).jpg,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (340).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/g (133).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/aug_44_Image (108).jpeg,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_100.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_140_Image (54).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (87).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (2).jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (6).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (263).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (390).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (157).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (74).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (61).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_99.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_63_12.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_12_Image (22).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_34_Image (48).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (80).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (174).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (320).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_198_16.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (53).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (130).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (65).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (33).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (200).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (163).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/c7cc4ba6-4633-454a-ae35-17c2ef1b771e.png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_159_Melanose_39.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (17).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_29_Image (41).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (316).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (155).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_162_32.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (43).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (160).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (37).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_3.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Image (5).jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_40_Melanose_105.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_148_34.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_82.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/c5ee60e1-53d8-4fe8-bba1-d604ca5af814.png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_37_Melanose_15.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (32).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_158_Melanose_12.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (14).jpg,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (183).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Black spot/Image (168).png,0,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (28).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Greening (13).jpg,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/c6e45648-39aa-4629-a7be-1ebf84a6fbfc.png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Canker (125).jpg,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_149_Melanose_7.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (364).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/Image (56).png,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/10f22454-1a2a-474d-bbc5-f02133fca37b.png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (281).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (100).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (98).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (419).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Greening/Image (176).png,2,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_23.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_106_Image (41).jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/h (195).jpg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (163).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_108_19.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Healthy/aug_73_45.pn.jpeg,3,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Canker/Image (69).png,1,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/Melanose_66.jpg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_81_Melanose_123.jpeg,4,test
+/kaggle/input/datasets/jhasvenijamisetty/citrus-leaf-disease-dataset/Melanose/aug_112_Image (4).jpeg,4,test

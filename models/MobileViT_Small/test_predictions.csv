@@ -1,0 +1,259 @@
+true_label,predicted_label
+Melanose,Black spot
+Black spot,Black spot
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Healthy
+Melanose,Melanose
+Black spot,Greening
+Melanose,Melanose
+Greening,Greening
+Black spot,Greening
+Melanose,Melanose
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Black spot
+Healthy,Healthy
+Greening,Greening
+Melanose,Melanose
+Melanose,Melanose
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Melanose,Melanose
+Melanose,Melanose
+Healthy,Healthy
+Greening,Greening
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Canker
+Canker,Canker
+Melanose,Healthy
+Greening,Greening
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Canker,Canker
+Canker,Canker
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Canker,Canker
+Greening,Greening
+Black spot,Black spot
+Black spot,Black spot
+Healthy,Canker
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Greening
+Healthy,Healthy
+Black spot,Black spot
+Healthy,Healthy
+Healthy,Canker
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Greening
+Melanose,Melanose
+Healthy,Healthy
+Greening,Greening
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Black spot
+Healthy,Healthy
+Black spot,Greening
+Canker,Black spot
+Black spot,Greening
+Melanose,Melanose
+Canker,Canker
+Melanose,Melanose
+Black spot,Canker
+Melanose,Melanose
+Greening,Greening
+Melanose,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Black spot
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Canker
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Healthy
+Canker,Canker
+Canker,Canker
+Greening,Greening
+Canker,Canker
+Healthy,Greening
+Melanose,Canker
+Healthy,Healthy
+Greening,Greening
+Healthy,Healthy
+Canker,Canker
+Black spot,Greening
+Canker,Canker
+Melanose,Melanose
+Melanose,Melanose
+Black spot,Black spot
+Healthy,Greening
+Healthy,Healthy
+Canker,Canker
+Healthy,Healthy
+Greening,Greening
+Melanose,Melanose
+Melanose,Melanose
+Melanose,Melanose
+Canker,Canker
+Melanose,Canker
+Healthy,Healthy
+Greening,Greening
+Healthy,Healthy
+Greening,Greening
+Canker,Canker
+Black spot,Canker
+Healthy,Healthy
+Healthy,Melanose
+Melanose,Melanose
+Black spot,Greening
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Canker
+Black spot,Canker
+Healthy,Healthy
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Melanose
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Greening
+Black spot,Greening
+Healthy,Healthy
+Healthy,Canker
+Healthy,Healthy
+Greening,Greening
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Healthy
+Black spot,Black spot
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Healthy
+Canker,Canker
+Canker,Canker
+Healthy,Healthy
+Greening,Greening
+Canker,Canker
+Healthy,Healthy
+Melanose,Melanose
+Black spot,Greening
+Greening,Greening
+Healthy,Healthy
+Canker,Canker
+Greening,Greening
+Healthy,Healthy
+Canker,Canker
+Greening,Greening
+Black spot,Greening
+Melanose,Healthy
+Black spot,Black spot
+Canker,Canker
+Healthy,Greening
+Black spot,Greening
+Healthy,Healthy
+Healthy,Healthy
+Greening,Greening
+Black spot,Black spot
+Black spot,Greening
+Healthy,Healthy
+Melanose,Canker
+Healthy,Healthy
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Greening,Canker
+Healthy,Healthy
+Greening,Greening
+Black spot,Black spot
+Melanose,Melanose
+Healthy,Greening
+Greening,Greening
+Melanose,Healthy
+Black spot,Greening
+Healthy,Healthy
+Healthy,Healthy
+Greening,Greening
+Greening,Greening
+Healthy,Healthy
+Melanose,Melanose
+Healthy,Greening
+Healthy,Healthy
+Healthy,Greening
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Healthy,Healthy
+Canker,Canker
+Black spot,Black spot
+Black spot,Black spot
+Canker,Canker
+Greening,Greening
+Black spot,Black spot
+Greening,Greening
+Melanose,Healthy
+Healthy,Greening
+Healthy,Healthy
+Healthy,Healthy
+Black spot,Black spot
+Healthy,Healthy
+Greening,Greening
+Canker,Greening
+Healthy,Healthy
+Melanose,Melanose
+Melanose,Melanose
+Melanose,Melanose
+Melanose,Melanose
+Melanose,Melanose
+Canker,Canker
+Melanose,Melanose
+Healthy,Healthy
+Melanose,Melanose
+Greening,Healthy
+Greening,Greening
+Black spot,Greening
+Greening,Greening
+Greening,Canker
+Canker,Canker
+Canker,Canker
+Melanose,Melanose
+Healthy,Healthy
+Healthy,Healthy
+Greening,Greening
+Healthy,Healthy
+Greening,Greening
+Canker,Canker
+Healthy,Healthy
+Greening,Greening
+Melanose,Melanose
+Healthy,Healthy
+Healthy,Healthy
+Canker,Canker
+Healthy,Healthy
+Healthy,Healthy
+Canker,Canker
+Melanose,Melanose
+Melanose,Melanose
+Melanose,Melanose

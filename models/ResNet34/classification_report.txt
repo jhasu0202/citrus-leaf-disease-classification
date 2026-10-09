@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+  Black spot       0.54      0.75      0.63        36
+      Canker       0.74      0.91      0.82        35
+    Greening       0.56      0.67      0.61        33
+     Healthy       0.95      0.74      0.83       106
+    Melanose       0.89      0.81      0.85        48
+
+    accuracy                           0.77       258
+   macro avg       0.74      0.78      0.75       258
+weighted avg       0.80      0.77      0.78       258

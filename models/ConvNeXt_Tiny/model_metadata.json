@@ -1,0 +1,11 @@
+{
+  "model": "ConvNeXt-Tiny",
+  "architecture": "ConvNeXt-Tiny",
+  "validation_accuracy": 0.817121,
+  "test_accuracy": 0.8527,
+  "macro_f1": 0.8269,
+  "weighted_f1": 0.8586,
+  "training_time_minutes": 1.39,
+  "data_split": "Shared stratified split, seed 42",
+  "notes": ""
+}

@@ -1,0 +1,11 @@
+{
+  "model": "ViT-B/16",
+  "architecture": "Vision Transformer Base/16",
+  "validation_accuracy": 0.883268,
+  "test_accuracy": 0.8876,
+  "macro_f1": 0.8554,
+  "weighted_f1": 0.8905,
+  "training_time_minutes": 7.13,
+  "data_split": "Shared stratified split, seed 42",
+  "notes": "Best test accuracy among reported experiments."
+}

@@ -1,0 +1,7 @@
+{
+    "Black spot": 0,
+    "Canker": 1,
+    "Greening": 2,
+    "Healthy": 3,
+    "Melanose": 4
+}

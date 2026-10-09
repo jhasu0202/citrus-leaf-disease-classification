@@ -1,0 +1,11 @@
+{
+  "model": "MobileViT-Small",
+  "architecture": "MobileViT-Small",
+  "validation_accuracy": 0.785992,
+  "test_accuracy": 0.814,
+  "macro_f1": 0.7731,
+  "weighted_f1": 0.8137,
+  "training_time_minutes": 1.24,
+  "data_split": "Shared stratified split, seed 42",
+  "notes": ""
+}

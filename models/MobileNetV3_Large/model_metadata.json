@@ -1,0 +1,11 @@
+{
+  "model": "MobileNetV3-Large",
+  "architecture": "MobileNetV3-Large",
+  "validation_accuracy": 0.731518,
+  "test_accuracy": 0.7752,
+  "macro_f1": 0.7459,
+  "weighted_f1": 0.7849,
+  "training_time_minutes": 1.16,
+  "data_split": "Shared stratified split, seed 42",
+  "notes": ""
+}

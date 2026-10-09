@@ -1,0 +1,11 @@
+{
+  "model": "Swin-Tiny",
+  "architecture": "Swin Transformer-Tiny",
+  "validation_accuracy": 0.85214,
+  "test_accuracy": 0.8527,
+  "macro_f1": 0.8222,
+  "weighted_f1": 0.8566,
+  "training_time_minutes": 1.33,
+  "data_split": "Shared stratified split, seed 42",
+  "notes": ""
+}

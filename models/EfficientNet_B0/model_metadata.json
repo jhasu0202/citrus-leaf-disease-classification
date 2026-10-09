@@ -1,0 +1,11 @@
+{
+  "model": "EfficientNet-B0",
+  "architecture": "EfficientNet-B0",
+  "validation_accuracy": 0.8638,
+  "test_accuracy": 0.8837,
+  "macro_f1": 0.85,
+  "weighted_f1": 0.88,
+  "training_time_minutes": null,
+  "data_split": "Earlier split; differs from shared split",
+  "notes": "Preliminary experiment; rounded F1 values."
+}

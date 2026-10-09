@@ -1,0 +1,22 @@
+Best validation accuracy: 0.817121
+Test accuracy: 0.852713
+Training duration seconds: 83.53
+
+              precision    recall  f1-score   support
+
+  Black spot     0.8000    0.6667    0.7273        36
+      Canker     0.7805    0.9143    0.8421        35
+    Greening     0.5714    0.8485    0.6829        33
+     Healthy     0.9890    0.8491    0.9137       106
+    Melanose     0.9787    0.9583    0.9684        48
+
+    accuracy                         0.8527       258
+   macro avg     0.8239    0.8474    0.8269       258
+weighted avg     0.8790    0.8527    0.8586       258
+
+Confusion matrix:
+[[24  2 10  0  0]
+ [ 1 32  2  0  0]
+ [ 2  2 28  1  0]
+ [ 2  4  9 90  1]
+ [ 1  1  0  0 46]]
