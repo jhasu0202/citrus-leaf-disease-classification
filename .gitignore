@@ -7,11 +7,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Model checkpoints
-*.pt
-*.pth
-*.ckpt
-
 # Dataset files
 data/
 datasets/
